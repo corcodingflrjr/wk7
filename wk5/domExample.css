@@ -1,0 +1,16 @@
+body {
+    display: flex;
+}
+
+#container {
+    width: 200px;
+}
+
+#display {
+    height: 100px;
+    background: ;
+    padding: 5px;
+    color: white;
+    text-align: ;
+    margin-bottom: ;
+}

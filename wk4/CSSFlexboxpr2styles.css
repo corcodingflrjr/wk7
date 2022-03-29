@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+}
+
+.flex-container { 
+    display: flex;  
+    height: 700px;
+}
+
+.column {
+    display: flex;
+    flex-grow: 1;
+    align-items: center;
+    justify-content: center;
+}
+.red {
+    background-color: #ff5f5f;
+    height: 700px;
+    width: 700px;
+}
+.blue {
+    background-color: #5fafff;    
+    height: 700px;
+    width: 700px;
+}
+.yellow {
+    background-color: #ffff4f;
+    height: 700px;
+    width: 700px;
+}
+.number {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    font-size: 50px;
+    justify-content: center;
+}
+
+
+

@@ -1,0 +1,30 @@
+h1 {
+    color: blueviolet;
+}
+
+p {
+    font-style: italic;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+img {
+    border: 50px blueviolet;
+    padding: 150px magenta;
+    margin: 20px;
+    width: 400px;
+    height: 400px;
+}
+<div> class = "container">
+    <div>1</div>
+    <div>2</div>
+    <div>3</div>
+    <div>4</div>
+</div>
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}

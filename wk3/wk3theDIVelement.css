@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.myDiv {
+  border: 5px outset red;
+  background-color: lightblue;    
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<h1>The div element</h1>
+
+<div class="myDiv">
+  <h2>This is a heading in a div element</h2>
+  <p>This is some text in a div element.</p>
+</div>
+
+<p>This is some text outside the div element.</p>
+
+</body>
+</html>
+
+----------------------------------------------
+Window Event Attributes
+Events triggered for the window object (applies to the <body> tag):
+
+Attribute	Value	Description
+onafterprint	script	Script to be run after the document is printed
+onbeforeprint	script	Script to be run before the document is printed
+onbeforeunload	script	Script to be run when the document is about to be unloaded
+onerror	script	Script to be run when an error occurs
+onhashchange	script	Script to be run when there has been changes to the anchor part of the a URL
+onload	script	Fires after the page is finished loading
+onmessage	script	Script to be run when the message is triggered
+onoffline	script	Script to be run when the browser starts to work offline
+ononline	script	Script to be run when the browser starts to work online
+onpagehide	script	Script to be run when a user navigates away from a page
+onpageshow	script	Script to be run when a user navigates to a page
+onpopstate	script	Script to be run when the window's history changes
+onresize	script	Fires when the browser window is resized
+onstorage	script	Script to be run when a Web Storage area is updated
+onunload	script	Fires once a page has unloaded (or the browser window has been closed)
+ADVERTISEMENT
+
+-------------------------------------
+
+HTML Global Attributes
+The global attributes are attributes that can be used with all HTML elements.
+
+Attribute	Description
+accesskey	Specifies a shortcut key to activate/focus an element
+class	Specifies one or more classnames for an element (refers to a class in a style sheet)
+contenteditable	Specifies whether the content of an element is editable or not
+data-*	Used to store custom data private to the page or application
+dir	Specifies the text direction for the content in an element
+draggable	Specifies whether an element is draggable or not
+hidden	Specifies that an element is not yet, or is no longer, relevant
+id	Specifies a unique id for an element
+lang	Specifies the language of the element's content
+spellcheck	Specifies whether the element is to have its spelling and grammar checked or not
+style	Specifies an inline CSS style for an element
+tabindex	Specifies the tabbing order of an element
+title	Specifies extra information about an element
+translate	Specifies whether the content of an element should be translated or not
+
+
+------------------------------------------
+
+<!DOCTYPE html>
+<html>
+<html>
+<head>
+<style>
+div { 
+  display: block;
+}
+</style>
+</head>
+<body>
+
+A div element is displayed like this:
+
+<div>This is some text in a div element.</div>
+
+Change the default CSS settings to see the effect.
+
+</body>
+</html>
+
+-----------------------------------------------
+HTML Block and Inline Elements
+https://www.w3schools.com/html/html_blocks.asp
+
+-----------------------------------------------
+HTML Layout Elements and Techniques
+https://www.w3schools.com/html/html_layout.asp
+
+-----------------------------------------------
+HTML DOM Elements
+https://www.w3schools.com/jsref/dom_obj_all.asp
+
+
+
+fe
+
+
+
+
+
